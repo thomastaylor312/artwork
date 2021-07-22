@@ -3001,6 +3001,38 @@
     </tr>
 </table>
 
+#### Krustlet Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/krustlet/horizontal/color/krustlet-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/color/krustlet-stacked-color.png" width="95"></td>
+        <td><img src="/projects/krustlet/icon/color/krustlet-icon-color.png" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/color/krustlet-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/color/krustlet-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/krustlet/icon/color/krustlet-icon-color.svg" width="75"></td>
+    </tr>
+    <!-- TODO: Black and white versions? -->
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
